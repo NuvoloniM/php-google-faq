@@ -21,6 +21,8 @@ $faqs = [
 ];
 
 
+
+
 ?>
 
 <!DOCTYPE html>
